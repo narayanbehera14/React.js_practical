@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "yearOfLaunch": 2008,
+    "price": 450,
+    "pages": 464
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "publisher": "Addison-Wesley",
+    "yearOfLaunch": 1999,
+    "price": 520,
+    "pages": 352
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "publisher": "O'Reilly Media",
+    "yearOfLaunch": 2008,
+    "price": 399,
+    "pages": 176
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly Media",
+    "yearOfLaunch": 2015,
+    "price": 550,
+    "pages": 278
+  },
+  {
+    "title": "React Explained",
+    "author": "Zac Gordon",
+    "publisher": "GoMakeThings",
+    "yearOfLaunch": 2019,
+    "price": 600,
+    "pages": 350
+  }
+]
